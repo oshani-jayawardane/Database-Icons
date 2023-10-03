@@ -7,3 +7,4 @@ Temporary repository made to host images for the Database-Matrix-Map Webpage to 
 ![mongodb](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/6d148589-f962-4ed7-a24e-ac9eb7e77dc2)
 ![databricks](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/0b5602ae-e595-417b-9dab-6f84dc73fadb)
 ![couchbase](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/08648830-6ac3-472f-8b89-40b625869100)
+![oracle](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/ca3e6561-32d5-4120-b112-69c13b959e91)
