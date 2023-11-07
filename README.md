@@ -14,3 +14,10 @@ Temporary repository made to host images for the Database-Matrix-Map Webpage to 
 ![cassandra](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/b24816df-e269-47af-8016-01e81a73d495)
 ![mariadb](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/fad6bcd0-6441-45fd-a040-0c7353099eaa)
 
+# Middleware-Icons
+![weblogic](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/8a52403d-9ab9-4312-a78b-f7dacd4de1dc)
+<img width="623" alt="websphere" src="https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/138bc132-bebc-4979-a1e1-5e93e3a9a6c6">
+![tomcat](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/230cc437-a121-49c3-b1f9-5f0bc9334979)
+![jboss](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/a317fd84-5f53-4dbe-b179-3fd50e3e4eb7)
+![glassfish](https://github.com/oshani-jayawardane/Database-Icons/assets/66548835/47a839f8-a95e-4fea-8e38-01dacaf09f0e)
+
